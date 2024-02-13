@@ -1,5 +1,5 @@
 # Intro-to-Python-Programming-UPenn
-Module 1:
+📍 Module 1: Course Introduction, Intro to Programming and The Python Language, Variables, Conditionals, Jupter Notbook, and IDLE 
 1. Course Introduction
 2. Introduction to Programming
 3. Introduction to Python
@@ -15,8 +15,7 @@ Module 1:
 13. Quiz
 14. Assessment
 
-
-Module 2:
+📍 Module 2: Intro to Lists, Loops, and Functions
 1. Data Structures: Introduction to Lists
 2. Flow Control: Loops
 3. 'for' Loops
@@ -28,4 +27,22 @@ Module 2:
 9. Modular Programming
 10. Coding Demonstration
 11. Quiz
-12. Assessment 
+12. Assessment
+
+📍 Module 3: More with Lists, Strings, Tuples, Sets, and Pycharm
+1. Introduction to PyCharm
+2. Practice Quiz
+3. Data Structures: More About Lists
+4. Strings
+5. Quiz
+6. Data Structures: Tuples
+7. Data Structures: Sets
+8. Quiz
+9. Assessment
+
+📍 Module 4: Dictionaries and Files
+1. Data Structures: Dictionaries
+2. Quiz
+3. Files
+4. Quiz
+5. Assessment
